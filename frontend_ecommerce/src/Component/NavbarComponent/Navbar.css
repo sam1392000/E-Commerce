@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: blue;
+}
+
+.navbar__brand {
+    margin-left: 30px;
+    color: aliceblue;
+}
+
+.navbar__btn {
+    margin-right: 30px;
+}

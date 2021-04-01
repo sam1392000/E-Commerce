@@ -1,0 +1,27 @@
+.middle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 500px;
+}
+
+.middle_btns {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    justify-content: space-between;
+}
+
+.middle_btn {
+    width: 200px;
+    height: 50px;
+}
+
+.modal__popup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
